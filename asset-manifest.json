@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/foodle-react-app/static/js/main.95f0cc36.chunk.js",
+    "main.js.map": "/foodle-react-app/static/js/main.95f0cc36.chunk.js.map",
+    "runtime-main.js": "/foodle-react-app/static/js/runtime-main.e171a4a9.js",
+    "runtime-main.js.map": "/foodle-react-app/static/js/runtime-main.e171a4a9.js.map",
+    "static/js/2.a48299aa.chunk.js": "/foodle-react-app/static/js/2.a48299aa.chunk.js",
+    "static/js/2.a48299aa.chunk.js.map": "/foodle-react-app/static/js/2.a48299aa.chunk.js.map",
+    "index.html": "/foodle-react-app/index.html",
+    "static/js/2.a48299aa.chunk.js.LICENSE.txt": "/foodle-react-app/static/js/2.a48299aa.chunk.js.LICENSE.txt",
+    "static/media/Foodle-logos_transparent.3723c811.png": "/foodle-react-app/static/media/Foodle-logos_transparent.3723c811.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e171a4a9.js",
+    "static/js/2.a48299aa.chunk.js",
+    "static/js/main.95f0cc36.chunk.js"
+  ]
+}
